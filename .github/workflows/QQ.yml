@@ -22,7 +22,7 @@ jobs:
     steps:
       - name: Checkout
         run: |
-          git clone https://github.com/forMrGao/GaoCorn.git ~/Scripts
+          git clone https://github.com/jeantoe/zq.git ~/Scripts
       - name: Use Node.js 12.x
         uses: actions/setup-node@v1
         with:
