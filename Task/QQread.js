@@ -43,7 +43,7 @@ const wktimess=12000//周奖励领取标准，默认12000分钟
 
 
 const qqreadurlKey = 'qqreadurl'+jbid
-const qqreadurlVal = process.env.QQREADURLVAL
+const qqreadurlVal = https://mqqapi.reader.qq.com/mqq/user/init
 
 
 const qqreadheaderKey = 'qqreadhd'+jbid
